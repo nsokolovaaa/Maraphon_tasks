@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d95da8-4e80-4d15-b412-79c2aa326b2d" name="Changes" comment="task for scanner">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day2/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day3/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665911129754</updated>
-      <workItem from="1665911133413" duration="7067000" />
+      <workItem from="1665911133413" duration="9064000" />
     </task>
     <task id="LOCAL-00001" summary="task 1-5">
       <created>1665922045183</created>
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665923086009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task for scanner">
+      <created>1665924405808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665924405808</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
