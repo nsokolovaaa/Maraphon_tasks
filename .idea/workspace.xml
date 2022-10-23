@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8d95da8-4e80-4d15-b412-79c2aa326b2d" name="Changes" comment="new task with use random/scanner">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day5/Car5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day5/Motorbike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Car5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Motorbike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day6/Teacher.java" afterDir="false" />
+    <list default="true" id="c8d95da8-4e80-4d15-b412-79c2aa326b2d" name="Changes" comment="new tasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day7/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day7/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day7/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Day7/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Day7/Airplane.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
       <workItem from="1666108858590" duration="6592000" />
       <workItem from="1666537713007" duration="254000" />
       <workItem from="1666538059104" duration="56000" />
-      <workItem from="1666538267537" duration="3964000" />
+      <workItem from="1666538267537" duration="7099000" />
     </task>
     <task id="LOCAL-00001" summary="task 1-5">
       <created>1665922045183</created>
@@ -107,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666003424714</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new tasks">
+      <created>1666544090226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666544090226</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +127,7 @@
     <MESSAGE value="task 1-5" />
     <MESSAGE value="task for scanner" />
     <MESSAGE value="new task with use random/scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="new task with use random/scanner" />
+    <MESSAGE value="new tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="new tasks" />
   </component>
 </project>

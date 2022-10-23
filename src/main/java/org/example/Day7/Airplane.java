@@ -66,4 +66,13 @@ public class Airplane {
         System.out.println( "Изготовитель:" + producer+  " , год выпуска:   "+ year +
                 "длина: " +length + ", вес: " + weight + " количество топлива в баке:" +fuel);
     }
+    public static void compareAirplanes(Airplane airplane, Airplane airplane1) {
+        if(airplane.getLength() > airplane1.getLength()) {
+            System.out.println("Первый самолет длиннее");
+        } else {
+            System.out.println("Второй самолет длиннее");
+
+        }
+
+    }
 }
