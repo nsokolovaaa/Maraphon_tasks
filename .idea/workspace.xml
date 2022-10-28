@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d95da8-4e80-4d15-b412-79c2aa326b2d" name="Changes" comment="new tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/task3/MusicBand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/task3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/task4/MusicBand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/task4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/task5/MusicArtist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/task5/MusicBand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/task5/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Day12/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Day12/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +51,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\Maraphon_tasks\src\main\java\org\example\Day6" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.Day12.task5" />
+      <recent name="org.example.Day12.task4" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task5">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Day12.Car" />
       <module name="Maraphon_tasks" />
@@ -77,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Day9.TestFigures" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Day12.task4.Task4" />
       <module name="Maraphon_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Day9.*" />
+          <option name="PATTERN" value="org.example.Day12.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.Day11.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Day11.Task1" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Day12.task5.Task5" />
       <module name="Maraphon_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Day11.*" />
+          <option name="PATTERN" value="org.example.Day12.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.org.example.Day12.Task2" />
         <item itemvalue="Application.Car" />
-        <item itemvalue="Application.org.example.Day11.Task1" />
-        <item itemvalue="Application.TestFigures" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +148,9 @@
       <workItem from="1666538267537" duration="8466000" />
       <workItem from="1666598663224" duration="14255000" />
       <workItem from="1666872700232" duration="5007000" />
-      <workItem from="1666895727931" duration="1026000" />
+      <workItem from="1666895727931" duration="2231000" />
+      <workItem from="1666898921478" duration="933000" />
+      <workItem from="1666943357407" duration="4407000" />
     </task>
     <task id="LOCAL-00001" summary="task 1-5">
       <created>1665922045183</created>
@@ -221,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666874652324</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new tasks">
+      <created>1666897163861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666897163861</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
