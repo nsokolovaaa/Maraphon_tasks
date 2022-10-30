@@ -30,7 +30,7 @@ public class Task1 {
         int sum = 0;
         for(String number : line) {
             sum += Integer.parseInt(number);
-            double result = sum / line.length;
+            double result = sum /(double) line.length;
             System.out.printf(result + " ---> %.3f", result);
         }
 
