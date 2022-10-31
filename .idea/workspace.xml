@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d95da8-4e80-4d15-b412-79c2aa326b2d" name="Changes" comment="new tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day16/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day17/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day17/ChessPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day17/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Day17/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Day16/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Day16/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -55,11 +57,12 @@
       <recent name="C:\Users\USER\Desktop\Maraphon_tasks\src\main\java\org\example\Day6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.Day17" />
       <recent name="org.example.Day12.task5" />
       <recent name="org.example.Day12.task4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.org.example.Day17.Task1">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Day16.Task1" />
       <module name="Maraphon_tasks" />
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Day12.task5.Task5" />
+    <configuration name="org.example.Day17.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Day17.Task1" />
       <module name="Maraphon_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Day12.task5.*" />
+          <option name="PATTERN" value="org.example.Day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.Day17.Task1" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task15" />
         <item itemvalue="Application.Task14" />
-        <item itemvalue="Application.Task5" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +160,8 @@
       <workItem from="1666954322291" duration="5482000" />
       <workItem from="1666979744581" duration="1924000" />
       <workItem from="1667060999072" duration="3359000" />
-      <workItem from="1667121672726" duration="3250000" />
+      <workItem from="1667121672726" duration="5748000" />
+      <workItem from="1667211677679" duration="3677000" />
     </task>
     <task id="LOCAL-00001" summary="task 1-5">
       <created>1665922045183</created>
@@ -257,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667122884216</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new tasks">
+      <created>1667125193925</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667125193925</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
